@@ -194,7 +194,9 @@ CIOTeamAgents/
 
 ## License
 
-MIT License - See [LICENSE](LICENSE) file.
+Free Use, No Resale - See [LICENSE](LICENSE) file.
+
+You can use these agents freely in personal or commercial settings. You cannot sell the templates themselves.
 
 ## Contributing
 
